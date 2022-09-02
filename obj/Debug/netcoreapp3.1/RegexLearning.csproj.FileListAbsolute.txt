@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.exe
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.deps.json
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.runtimeconfig.json
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.dll
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\bin\Debug\netcoreapp3.1\RegexLearning.pdb
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.Form1.resources
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.dll
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.pdb
+C:\Users\Administrator\source\repos\RegexLearning\RegexLearning\obj\Debug\netcoreapp3.1\RegexLearning.genruntimeconfig.cache
